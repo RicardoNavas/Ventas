@@ -4,16 +4,17 @@ DESARROLLO WEB:
 
 IDE O ENTORO DE DESARROLLO INTEGRADO DE SOFTWARE
 
-VISUAL STUDIO .NET 2022
+  1. VISUAL STUDIO .NET 2022
 
-FRAMEWORK .NET8
+  2. FRAMEWORK .NET8
 
 BACKEND
 
-SQLServer Transact SQL (Procedimientos Almacenados)
+1. SQLServer Transact SQL 
+  (Procedimientos Almacenados)
 
-ARQUITECTURA MVC
-Modelo Vista Controlador
+2. ARQUITECTURA MVC
+   Modelo Vista Controlador
 
 PATRON DE DISEÑO
 Singleton
