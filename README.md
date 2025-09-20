@@ -24,13 +24,13 @@ BACKEND
 
 5. PRINCIPIOS SOLID
 
-  ORM (Mapeo Relacional de Objetos)
-  ENTITY FRAMEWORK CORE
+6. ORM (Mapeo Relacional de Objetos)
+   ENTITY FRAMEWORK CORE
 
 FRONT END
 
 1. NET 8
 
-LENGUAJE DE SCRIPT
-JAVASCRIPT, CSS y HTML BOOTSTRAP v5.3 para crear componentes dinamicos y
-SWEETALERT para creación de alertas o modales dinámicos
+2. LENGUAJE DE SCRIPT
+   JAVASCRIPT, CSS y HTML BOOTSTRAP v5.3 para crear componentes dinamicos y
+   SWEETALERT para creación de alertas o modales dinámicos
