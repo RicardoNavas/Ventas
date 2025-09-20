@@ -13,18 +13,18 @@ BACKEND
 1. SQLServer Transact SQL     
   (Procedimientos Almacenados)
 
-2. ARQUITECTURA MVC
+2. ARQUITECTURA MVC    
    Modelo Vista Controlador
 
-3. PATRON DE DISEÑO
+3. PATRON DE DISEÑO     
   Singleton
 
-4. LENGUAJE DE PROGRAMACION
+4. LENGUAJE DE PROGRAMACION    
    C#
 
 5. PRINCIPIOS SOLID
 
-6. ORM (Mapeo Relacional de Objetos)
+6. ORM (Mapeo Relacional de Objetos)    
    ENTITY FRAMEWORK CORE
 
 FRONT END
