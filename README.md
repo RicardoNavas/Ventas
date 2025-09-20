@@ -10,7 +10,7 @@ IDE O ENTORO DE DESARROLLO INTEGRADO DE SOFTWARE
 
 BACKEND
 
-1. SQLServer Transact SQL 
+1. SQLServer Transact SQL     
   (Procedimientos Almacenados)
 
 2. ARQUITECTURA MVC
